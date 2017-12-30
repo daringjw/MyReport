@@ -1,0 +1,2 @@
+1，自助讲解bug修复
+2，mac,ssid,pwd 解决bug
